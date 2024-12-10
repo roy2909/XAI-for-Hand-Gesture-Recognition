@@ -129,3 +129,10 @@ test_improved_DANN_on_training_sessions(examples_datasets_train, labels_datasets
                             filter_size=<kernel_size_of_ConvNet>)
 ```
 ### Results
+**Results before Shapley Feedback**
+![before_feedback](https://github.com/user-attachments/assets/73b5ccd4-842f-43f8-9a38-dd5c70786095)
+**Results after Shapley Feedback**
+![after_feedback](https://github.com/user-attachments/assets/eb652527-42ff-4ada-af1d-9bc15da4a7a8)
+**Overall Comparison**
+![comparison](https://github.com/user-attachments/assets/85ce24c6-e1fe-4905-b83d-ca0f2b9af20a)
+
