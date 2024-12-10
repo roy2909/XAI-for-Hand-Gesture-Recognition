@@ -1,5 +1,5 @@
 # Explainable AI for Hand Gesture Recognition
-* Author Rahul Roy
+Author:  Rahul Roy
 * [Portfolio Post](https://roy2909.github.io/Transfer/)  
 &nbsp;
 * Based on the [paper](https://www.sciencedirect.com/science/article/pii/S0020025524005802#fm0050)
