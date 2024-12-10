@@ -7,7 +7,7 @@ Author:  Rahul Roy
 * Previous work by [Sonia Yuxiao Lai](https://github.com/aonai/long_term_EMG_myo/tree/main)
 
 ![shapley](https://github.com/user-attachments/assets/a6fb1504-26a3-4517-81b8-e59d890f6cae)
-
+<p align="center"><em>Model architecture for Shapley Feedback Based Convolutional Neural Network</em></p>
 ### Overview
 This project aims to improve upon a previously developed hand gesture recognition [system](https://github.com/aonai/long_term_EMG_myo/tree/main) by incorporating Explainable AI techniques. The goal is to enhance the model's interpretability and transparency. 
 
