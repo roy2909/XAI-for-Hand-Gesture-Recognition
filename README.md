@@ -6,6 +6,7 @@
 * Dataset recorded by [Suguru Kanoga](https://github.com/Suguru55/Wearable_Sensor_Long-term_sEMG_Dataset)
 * Previous work by [Sonia Yuxiao Lai](https://github.com/aonai/long_term_EMG_myo/tree/main)
 
+![shapley](https://github.com/user-attachments/assets/a6fb1504-26a3-4517-81b8-e59d890f6cae)
 
 ### Overview
 This project aims to improve upon a previously developed hand gesture recognition [system](https://github.com/aonai/long_term_EMG_myo/tree/main) by incorporating Explainable AI techniques. The goal is to enhance the model's interpretability and transparency. 
