@@ -104,7 +104,8 @@ test_DANN_on_training_sessions(examples_datasets_train, labels_datasets_train,
 ##### 3. Domain-Adversarial Neural Network (DANN) with Shapley Feedback
 
 i. Train a DANN model from the base model with Shapley Feedback
-```train_improved_DANN(examples_datasets_train, labels_datasets_train, 
+```
+train_improved_DANN(examples_datasets_train, labels_datasets_train, 
         num_kernels=<num_kernels_of_each_layer>,
         path_weights_fine_tuning=<path_base_weights>,
         number_of_classes=<number_of_classes>,
@@ -117,7 +118,7 @@ i. Train a DANN model from the base model with Shapley Feedback
 ```
 ii. Test and record results of DANN model with Shapley Feedback
 ```
-test_improved_DANN_on_training_sessions(examples_datasets_train, labels_datasets_train,
+test_improved_DANN(examples_datasets_train, labels_datasets_train,
                             num_neurons=<num_kernels_of_each_layer>,  
                             path_weights_DA=<path_SCADANN_weights>,
                             algo_name=<result_file_name>, 
