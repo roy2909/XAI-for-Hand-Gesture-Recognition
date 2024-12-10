@@ -1,6 +1,6 @@
 # Explainable AI for Hand Gesture Recognition
-* Rahul Roy
-* [Post](https://roy2909.github.io/Transfer/)  
+* Author Rahul Roy
+* [Portfolio Post](https://roy2909.github.io/Transfer/)  
 &nbsp;
 * Based on the [paper](https://www.sciencedirect.com/science/article/pii/S0020025524005802#fm0050)
 * Dataset recorded by [Suguru Kanoga](https://github.com/Suguru55/Wearable_Sensor_Long-term_sEMG_Dataset)
